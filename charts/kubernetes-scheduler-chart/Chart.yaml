@@ -1,5 +1,5 @@
 apiVersion: v2
-name: custom-scheduler
+name: Kubernetes-scheduler
 description: A Helm chart for Kubernetes custom scheduler
 version: 0.1.10
 keywords:
