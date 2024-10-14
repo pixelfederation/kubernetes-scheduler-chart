@@ -13,7 +13,7 @@ The chart can be installed as follows:
 
 ```console
 $ helm repo add kubernetes-scheduler https://pixelfederation.github.io/kubernetes-scheduler-chart
-$ helm --namespace=kube-system install my-scheduler kubernetes-scheduler/Kubernetes-scheduler
+$ helm --namespace=kube-system install my-scheduler kubernetes-scheduler/kubernetes-scheduler
 ```
 
 To uninstall/delete the `Kubernetes scheduler` deployment:
