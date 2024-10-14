@@ -1,7 +1,7 @@
 apiVersion: v2
 name: kubernetes-scheduler
 description: A Helm chart for Kubernetes custom scheduler
-version: 0.1.11
+version: 0.2.0
 keywords:
 - k8s
 - kubernetes
@@ -9,4 +9,4 @@ keywords:
 maintainers:
 - email: thulata@pixelfederation.com
   name: Tomas Hulata
-appVersion: 1.26.9
+appVersion: 1.27.16
