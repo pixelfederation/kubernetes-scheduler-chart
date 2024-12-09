@@ -32,7 +32,7 @@ entries:
       name: Tomas Hulata
     name: kubernetes-scheduler
     urls:
-    - https://github.com/pixelfederation/kubernetes-scheduler-chart/archive/refs/tags/kubernetes-scheduler-0.3.0.zip
+    - https://github.com/pixelfederation/kubernetes-scheduler-chart/archive/refs/tags/kubernetes-scheduler-0.3.0.tar.gz
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.27.16
