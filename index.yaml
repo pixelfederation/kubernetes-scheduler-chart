@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   kubernetes-scheduler:
   - apiVersion: v2
+    appVersion: 1.32.7
+    created: "2025-09-03T10:35:55.265441979Z"
+    description: A Helm chart for Kubernetes custom scheduler
+    digest: 7fca73f5419c4b7f72e1dee186ba13d66d08d092c479c9ec796e8edefd192240
+    keywords:
+    - k8s
+    - kubernetes
+    - scheduler
+    maintainers:
+    - email: thulata@pixelfederation.com
+      name: Tomas Hulata
+    name: kubernetes-scheduler
+    urls:
+    - https://github.com/pixelfederation/kubernetes-scheduler-chart/releases/download/kubernetes-scheduler-0.3.2/kubernetes-scheduler-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
     appVersion: 1.30.12
     created: "2025-09-03T10:22:32.813893019Z"
     description: A Helm chart for Kubernetes custom scheduler
@@ -81,4 +97,4 @@ entries:
     urls:
     - https://github.com/pixelfederation/kubernetes-scheduler-chart/releases/download/kubernetes-scheduler-0.1.10/kubernetes-scheduler-0.1.10.tgz
     version: 0.1.10
-generated: "2025-09-03T10:22:32.813913257Z"
+generated: "2025-09-03T10:35:55.265464562Z"
